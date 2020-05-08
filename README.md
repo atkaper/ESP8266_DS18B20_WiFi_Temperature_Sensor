@@ -1,6 +1,6 @@
 # ESP8266 DS18B20 WiFi Temperature Sensor
 
-See also https://www.kaper.com/ for blog post.
+See also https://www.kaper.com/electronics/wifi-temperature-sensor/ for blog post.
 
 OneWire DS18S20, DS18B20, DS1822 Temperature standard example, combined with some code to start a WebServer, and allow for OTA updates.
 The web server will respond to a query to the root (/) with the temperature value (celsius) using two decimals behind the comma (dot).
